@@ -1,6 +1,6 @@
 {
-    "name": "travel_expense_tracker",
-    "short_name": "travel_expense_tracker",
+    "name": "Travel Expense Tracker",
+    "short_name": "Travel Expense Tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
